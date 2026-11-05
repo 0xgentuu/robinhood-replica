@@ -1,4 +1,4 @@
-# Featherlight landing page (React + Vite)
+# Robinhood landing page (React + Vite)
 
 ```bash
 npm install
@@ -10,5 +10,4 @@ npm run preview  # serve the build locally
 - `src/components/` one file per section (Nav, Hero, Scene, Intuitive, Crypto, Pros, Protection, Learn, Join, Footer)
 - `src/shared.jsx` brand name, nav menu data, icons, helpers
 - `src/index.css` all styles
-- `public/hero.mp4` hero background video, `public/join.webm`/`join.mp4` Join animation, `public/intuitive.jpg` trading-tools photo (media saved by you from the source site; for private study only, replace with your own before publishing)
-- Change `BRAND` in `src/shared.jsx` to rename the site
+- `public/hero.mp4` hero background video, `public/join.webm`/`join.mp4` Join animation, `public/intuitive.jpg` trading-tools photo 
